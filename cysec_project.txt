@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - THRISSUR  || 23 Jun 2021 | 12:47:54 AM
+-------------------------------------------------------------
+Current temperature is: 24.99 deg C
+Current weather:overcast clouds
+Current Humidity:93 %
+Current wind speed:1 kmph
